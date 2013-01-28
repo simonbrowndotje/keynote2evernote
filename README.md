@@ -3,6 +3,8 @@ keynote2evernote
 
 Utilities to export Apple Keynote slideshows to Evernote Notebooks
 
+![](screenshot.png)
+
 ## Tested with
 
 The AppleScript has been tested with:
