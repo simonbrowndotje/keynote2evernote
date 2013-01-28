@@ -2,3 +2,11 @@ keynote2evernote
 ================
 
 Utilities to export Apple Keynote slideshows to Evernote Notebooks
+
+## Tested with
+
+The AppleScript has been tested with:
+
+- Mac OS X Mountain Lion (10.8.2)
+- Keynote '09 (v5.3)
+- Evernote v5.0.4
